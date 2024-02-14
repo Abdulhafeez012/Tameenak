@@ -37,14 +37,14 @@
 
 ### Technologies
 
-#### in frontend
+#### frontend
 - HTMl 
 - CSS
 - JavaScript
 - Sass
 
-#### in backend
-- Django
+#### backend
+- python with django framework 
 
 ---
 
