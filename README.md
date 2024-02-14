@@ -38,7 +38,7 @@
 ### Technologies
 
 #### frontend
-- HTMl 
+- HTML
 - CSS
 - JavaScript
 - Sass
